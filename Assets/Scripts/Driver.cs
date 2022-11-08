@@ -5,7 +5,7 @@ using UnityEngine;
 public class Driver : MonoBehaviour
 {
     [SerializeField] float moveSpeed = 0.01f;
-    [SerializeField] float steerSpeed = 1.0f;
+    [SerializeField] float steerSpeed = 1.0f;   // These speeds are without Time.dT those nums are more like 15 m.s. & 225 s.s.
 
     // Start is called before the first frame update
     void Start()
@@ -17,8 +17,8 @@ public class Driver : MonoBehaviour
     void Update()
     {
         // var in here bc it needs to be updated every frame
-        float steerAmount = Input.GetAxis("Horizontal") * steerSpeed;
-        float moveAmount = Input.GetAxis("Vertical") * moveSpeed;
+        float steerAmount = Input.GetAxis("Horizontal") * steerSpeed * Time.deltaTime;
+        float moveAmount = Input.GetAxis("Vertical") * moveSpeed * Time.deltaTime; // Both framerate indep bc of dT
 
         // To turn the vehicle Left & Right
         transform.Rotate(0, 0, -steerAmount);
