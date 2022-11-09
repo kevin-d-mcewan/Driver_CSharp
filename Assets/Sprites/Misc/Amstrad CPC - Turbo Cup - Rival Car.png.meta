@@ -1,0 +1,661 @@
+fileFormatVersion: 2
+guid: d2ed1fa8d47711d4eb7c73197a079ad1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -272337865360398814
+    second: Amstrad CPC - Turbo Cup - Rival Car_0
+  - first:
+      213: 4423599705637921895
+    second: Amstrad CPC - Turbo Cup - Rival Car_1
+  - first:
+      213: -9088280933981354168
+    second: Amstrad CPC - Turbo Cup - Rival Car_2
+  - first:
+      213: 978768602706238414
+    second: Amstrad CPC - Turbo Cup - Rival Car_3
+  - first:
+      213: -5366491170480821893
+    second: Amstrad CPC - Turbo Cup - Rival Car_4
+  - first:
+      213: 2946644363840753325
+    second: Amstrad CPC - Turbo Cup - Rival Car_5
+  - first:
+      213: -76889254035728296
+    second: Amstrad CPC - Turbo Cup - Rival Car_6
+  - first:
+      213: -2182052666267995696
+    second: Amstrad CPC - Turbo Cup - Rival Car_7
+  - first:
+      213: -1543463806049438040
+    second: Amstrad CPC - Turbo Cup - Rival Car_8
+  - first:
+      213: -1417365382210897971
+    second: Amstrad CPC - Turbo Cup - Rival Car_9
+  - first:
+      213: -2533147367918519565
+    second: Amstrad CPC - Turbo Cup - Rival Car_10
+  - first:
+      213: -5239882884045441123
+    second: Amstrad CPC - Turbo Cup - Rival Car_11
+  - first:
+      213: 6047259140920550027
+    second: Amstrad CPC - Turbo Cup - Rival Car_12
+  - first:
+      213: 6759703333309757524
+    second: Amstrad CPC - Turbo Cup - Rival Car_13
+  - first:
+      213: -7098314230654287999
+    second: Amstrad CPC - Turbo Cup - Rival Car_14
+  - first:
+      213: -6189345512183199097
+    second: Amstrad CPC - Turbo Cup - Rival Car_15
+  - first:
+      213: 6691263592407897374
+    second: Amstrad CPC - Turbo Cup - Rival Car_16
+  - first:
+      213: -9202283230497983122
+    second: Amstrad CPC - Turbo Cup - Rival Car_17
+  - first:
+      213: -8323802036127118179
+    second: Amstrad CPC - Turbo Cup - Rival Car_18
+  - first:
+      213: -6976514935772596178
+    second: Amstrad CPC - Turbo Cup - Rival Car_19
+  - first:
+      213: 3400548539831690645
+    second: Amstrad CPC - Turbo Cup - Rival Car_20
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 0
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: iPhone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_0
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 180
+        width: 60
+        height: 42
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 42, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: -18}
+        - {x: -29, y: -10}
+        - {x: -29, y: -1}
+        - {x: -16, y: 13}
+        - {x: 0, y: 20}
+        - {x: 5, y: 21}
+        - {x: 15, y: 21}
+        - {x: 21, y: 19}
+        - {x: 28, y: 16}
+        - {x: 28, y: 4}
+        - {x: 24, y: 1}
+        - {x: 16, y: -7}
+        - {x: 7, y: -14}
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2262e448726783cf0800000000000000
+      internalID: -272337865360398814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_1
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 179
+        width: 52
+        height: 46
+      alignment: 9
+      pivot: {x: 0.5263158, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 764221bbe78c36d30800000000000000
+      internalID: 4423599705637921895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_2
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 100
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 847061f64a0ffd180800000000000000
+      internalID: -9088280933981354168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_3
+      rect:
+        serializedVersion: 2
+        x: 124
+        y: 180
+        width: 40
+        height: 47
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ecb5c91cbd8459d00800000000000000
+      internalID: 978768602706238414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_4
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 137
+        width: 36
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b79683d96b46685b0800000000000000
+      internalID: -5366491170480821893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_5
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 136
+        width: 44
+        height: 37
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dae822adf6594e820800000000000000
+      internalID: 2946644363840753325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_6
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 136
+        width: 51
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 858d72e71a5deeef0800000000000000
+      internalID: -76889254035728296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_7
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 100
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d1f6e939aac7b1e0800000000000000
+      internalID: -2182052666267995696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_8
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 100
+        width: 32
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a630c498d3849ae0800000000000000
+      internalID: -1543463806049438040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_9
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 68
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc73264c1b1845ce0800000000000000
+      internalID: -1417365382210897971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_10
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 68
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fa308bd3e378dcd0800000000000000
+      internalID: -2533147367918519565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_11
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 68
+        width: 36
+        height: 24
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9772df67423847b0800000000000000
+      internalID: -5239882884045441123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_12
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 44
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b82ad4f162e2ce350800000000000000
+      internalID: 6047259140920550027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_13
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 44
+        width: 24
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 458b3f00e5a4fcd50800000000000000
+      internalID: 6759703333309757524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_14
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 20
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18f30c1d0d8bd7d90800000000000000
+      internalID: -7098314230654287999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_15
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 20
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78a892a9c070b1aa0800000000000000
+      internalID: -6189345512183199097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 4
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e151af319c42cdc50800000000000000
+      internalID: 6691263592407897374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_17
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 4
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6532ab582cea4080800000000000000
+      internalID: -9202283230497983122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_18
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 4
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9c48f7462aeb7c80800000000000000
+      internalID: -8323802036127118179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_19
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 4
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e28311b01a07e2f90800000000000000
+      internalID: -6976514935772596178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Amstrad CPC - Turbo Cup - Rival Car_20
+      rect:
+        serializedVersion: 2
+        x: 76
+        y: 4
+        width: 4
+        height: 8
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 595242e41ec213f20800000000000000
+      internalID: 3400548539831690645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
