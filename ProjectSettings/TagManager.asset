@@ -4,9 +4,13 @@
 TagManager:
   serializedVersion: 2
   tags:
-  - Collectable
   - Building
   - TreeAndPlant
+  - Package
+  - Mail
+  - Food
+  - Civilian
+  - Customer
   layers:
   - Default
   - TransparentFX
@@ -14,7 +18,7 @@ TagManager:
   - 
   - Water
   - UI
-  - 
+  - Roads
   - 
   - 
   - 
