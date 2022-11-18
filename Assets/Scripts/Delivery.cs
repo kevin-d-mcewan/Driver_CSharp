@@ -7,6 +7,8 @@ public class Delivery : MonoBehaviour
 
     bool hasPackage = false;
     bool hasMail = false;
+    // GameObject package;
+    [SerializeField] float destroyDelay = 0.5f;
 
     private void OnCollisionEnter2D(Collision2D other)
     {
@@ -17,15 +19,18 @@ public class Delivery : MonoBehaviour
     {
         // Other refers to the parameter that you are passing in for OnTriggerEnter2D() 'other' is just var name can be named anything
         // Debug.Log ("you have picked up 'anything');
-        if (other.tag == "Package")
+        if (other.tag == "Package" && !hasPackage)
         {
             Debug.Log("You have picked up the package.");
             hasPackage = true;
+            Destroy(other.gameObject, destroyDelay);
+            
         } 
-        else if(other.tag == "Mail")
+        else if(other.tag == "Mail" && !hasMail)
         {
             Debug.Log("You have picked up the mail");
             hasMail = true;
+            Destroy(other.gameObject, destroyDelay);
 
         }
         else if (other.tag == "Customer" && hasPackage)
