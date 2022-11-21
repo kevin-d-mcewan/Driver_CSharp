@@ -159,3 +159,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 518e1c6d11791b6468b9101b8ea76a8b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  hasPackageColor:
+    serializedVersion: 2
+    rgba: 4286916023
+  noPackageColor:
+    serializedVersion: 2
+    rgba: 4294967295
+  destroyDelay: 0.2

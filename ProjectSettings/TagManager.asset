@@ -11,6 +11,8 @@ TagManager:
   - Food
   - Civilian
   - Customer
+  - Bump
+  - Boost
   layers:
   - Default
   - TransparentFX
